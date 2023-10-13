@@ -50,7 +50,7 @@ Led trainings on data science and analytics best practices with R, SPSS, SAS, an
 ### An Introduction to Machine Learning with R - O'Reilly Media (2018)
 Introductory text book on the basics of machine learning with the R language. Topic covered
 include regression, classification, neural networks, tree-based models, and deep dives into common
-machine learning packages that are used with R
+machine learning packages that are used with R. Used in many univeristy courses on statistics.
 
 ## Technical Skills
 Alation, Apache Airflow, Apache Superset, AWS Athena, AWS Aurora, AWS Redshift, Amplitude, Git, Google Analytics, Google BigQuery, Jira, LATEX, PowerBI, Python, R, Splunk, SQL,
