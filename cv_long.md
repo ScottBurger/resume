@@ -56,7 +56,7 @@ Engineering Customer Interactions and IT - Worked with numerous groups within th
 * BS Physics, Western Washington University, 2010
 
 ## Publications
-### An Introduction to Machine Learning with R - O'Reilly Media (2018)
+### [An Introduction to Machine Learning with R - O'Reilly Media (2018)](https://www.amazon.com/Introduction-Machine-Learning-Rigorous-Mathematical/dp/1491976446)
 Introductory text book on the basics of machine learning with the R language. Topic covered
 include regression, classification, neural networks, tree-based models, and deep dives into common
 machine learning packages that are used with R. Used in many univeristy courses on statistics.
@@ -68,16 +68,18 @@ Tableau, Testrail
 ## Invited Talks
 __[Engineering Analytics at Qualtrics](https://getdx.com/podcast/)__ - (June 2024 planned release) Interview with Abi Noda for the Engineering Enablement Podcast. Topics covered included career journey, challenges with OKR data, cross-department analytics communications, Jira data strategy, and many others. https://getdx.com/podcast/
 
-\subitem \textbf{The Data Science of Roguelikes} - Invited talk for the 2023 Roguelike Celebration. Talk covered videogame data sources, API integrations with Steam, and analyses of the genre landscape for roguelike games. Conclusions were that Steam has the most robust dataset, the state of the genre is growing, and that similar game recommendations can be found via game tag cosine similarity scores. \href{https://www.youtube.com/watch?v=IliQZm5Itng}{Link}
+__[The Data Science of Roguelikes](https://www.youtube.com/watch?v=IliQZm5Itng)__ - Invited talk for the 2023 Roguelike Celebration. Talk covered videogame data sources, API integrations with Steam, and analyses of the genre landscape for roguelike games. Conclusions were that Steam has the most robust dataset, the state of the genre is growing, and that similar game recommendations can be found via game tag cosine similarity scores.
 
-\subitem \textbf{Computer Chess \& Data Science} - Invited talk for the Pickford Film Center in Bellingham, WA 2021. Talk covered early chess history, digital computer game history, the minimax algorithm, alpha-beta pruning, computer chess tournaments, and human-computer chess competitions.  \href{https://www.youtube.com/watch?v=mge035g8lf8}{Link}
+__[Computer Chess & Data Science](https://www.youtube.com/watch?v=mge035g8lf8)__ - Invited talk for the Pickford Film Center in Bellingham, WA 2021. Talk covered early chess history, digital computer game history, the minimax algorithm, alpha-beta pruning, computer chess tournaments, and human-computer chess competitions.  
 
-\subitem \textbf{Attribution Modelling 101} - Invited talk for the Dynamic Talks series in Redmond, WA 2019. Topic covered include: customer journey analytics, intro to BigQuery, table sharding and hit-level user data, attribution models in R, model outputs and reccomendations. \href{https://www.youtube.com/watch?v=E0ObToWagzk}{Link}
+__[Attribution Modelling 101](https://www.youtube.com/watch?v=E0ObToWagzk)__ - Invited talk for the Dynamic Talks series in Redmond, WA 2019. Topic covered include: customer journey analytics, intro to BigQuery, table sharding and hit-level user data, attribution models in R, model outputs and reccomendations.
 
-\subitem \textbf{The Data Science of Board Games} - Penny Arcade Expo, Seattle 2017. Board games have seen an unprecedented boom in their popularity recently. In this talk ,I walked through data on over 250,000 board games from the beginning of civilization to modern times to chart the trends, looking at insights about ratings, balance, and guilty pleasures hidden in the data to shed light on this booming sector of gaming.
+__[The Data Science of Board Games](https://svburger.com/2017/09/03/info-for-attendees-of-my-pax-talk/)__ - Penny Arcade Expo, Seattle 2017. Board games have seen an unprecedented boom in their popularity recently. In this talk ,I walked through data on over 250,000 board games from the beginning of civilization to modern times to chart the trends, looking at insights about ratings, balance, and guilty pleasures hidden in the data to shed light on this booming sector of gaming.
 
-% \subitem \textbf{User-Based Reviews and the PC Gaming Ecosytem: What It Takes to Survive in the Videogame World of 2015} - The Data Science Conference, Chicago 2015. At this conference I detailed a method for quantifying emotions and polarity of text-based, user-submitted reviews through the PC gaming digital distribution service, Steam. In my work, I showed that the current algorithms in use are not well suited for aggregating user emotion, as the algorithm is highly dictionary-dependant for word categorization. However, word polarity aggregation appeared to be a worthwhile metric to investigate.
+__User-Based Reviews and the PC Gaming Ecosytem: What It Takes to Survive in the Videogame World of 2015__ - The Data Science Conference, Chicago 2015. At this conference I detailed a method for quantifying emotions and polarity of text-based, user-submitted reviews through the PC gaming digital distribution service, Steam. In my work, I showed that the current algorithms in use are not well suited for aggregating user emotion, as the algorithm is highly dictionary-dependant for word categorization. However, word polarity aggregation appeared to be a worthwhile metric to investigate.
 
 
 ## Other Projects
 __FAA Private Pilot's License - 4826074__ - In December 2023, I passed my Cessna 152 checkride to achieve my VFR private pilot's license.
+
+__SVBurger.com__ - Data science and analytics blog maintained since 2017.
