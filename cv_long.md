@@ -66,7 +66,7 @@ Alation, Apache Airflow, Apache Superset, AWS Athena, AWS Aurora, AWS Redshift, 
 Tableau, Testrail
 
 ## Invited Talks
-__[Engineering Analytics at Qualtrics](https://getdx.com/podcast/)__ - (June 2024 planned release) Interview with Abi Noda for the Engineering Enablement Podcast. Topics covered included career journey, challenges with OKR data, cross-department analytics communications, Jira data strategy, and many others. https://getdx.com/podcast/
+__[Engineering Analytics at Qualtrics](https://getdx.com/podcast/)__ - (June 2024 planned release) Interview with Abi Noda for the Engineering Enablement Podcast. Topics covered included career journey, challenges with OKR data, cross-department analytics communications, Jira data strategy, and many others.
 
 __[The Data Science of Roguelikes](https://www.youtube.com/watch?v=IliQZm5Itng)__ - Invited talk for the 2023 Roguelike Celebration. Talk covered videogame data sources, API integrations with Steam, and analyses of the genre landscape for roguelike games. Conclusions were that Steam has the most robust dataset, the state of the genre is growing, and that similar game recommendations can be found via game tag cosine similarity scores.
 
