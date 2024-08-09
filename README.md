@@ -4,7 +4,10 @@ One-pager highlights of recent work experience
 
 ## Employment History
 
-### Head of Engineering Analytics - Qualtrics (Oct 2019 - present)
+### Senior Data Analyst, Engineering - Qualtrics (Oct 2019 - present)
+
+Developed the centralized reporting dashboard and infrastructure for C-Suite visibility into company-level metrics such as: Ease of Use, Pace of Interactions, Time to Value, Number of Interactions, Monthly Active Users, Daily Active Users, Monthly Active Brands, Jira Pulse SLAs, Data Center Availability, Service Level Objectives, Security Patching, and 20 other main metrics used for criticial success measurement across Product, Experience, and Engineering. Accomplished with Python,  Prefect, and Tableau.
+
 Leading critical operational metrics of 50+ different KPIs visible to Engineering leadership
 and C-Suite. 40% of all engineers in the company have interacted with Eng Analtyics data
 products and 35% of the entire company overall. For our most recent quarterly review, a majority
