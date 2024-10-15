@@ -62,6 +62,8 @@ Developed and owned a more accessible frontend API interface to the Qualtrics Ye
 
 Performed an analysis on several Qualtrics products and tied customer satisfaction to them to understand which ones were driving positive PSAT and which ones were driving negative PSAT. This was used by program managers to further understand customer frustrations and optimize user journey flows for better product experiences.
 
+Owned and maintained documentation on analytical 
+
 
 ### Senior Marking Analyst - Tableau Software (Feb 2018 - Oct 2019)
 Led a team of data scientists and data engineers to build a multi-touch attribution model
