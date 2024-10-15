@@ -1,5 +1,5 @@
 # Scott V Burger Curriculum Vitae
-
+(an exhaustive list of deliverables)
 
 
 ## Employment History
@@ -27,6 +27,40 @@ Led initiatives on data governance to establish the adoption of Alation and data
 best practice updates.
 
 Led an initiative to bring analytics team across the company together for informal tech talks.
+
+---
+
+Mentored 16 people through the Q-Mentor program, ranging from junior and intern-level data scientists, to senior and staff level technical program managers. I recieved highly favorable reviews from mentees and would often extend the mentorship program beyond its originally scoped timeframe in order to continue the program, per mentee requests.
+
+Upgraded 137 internal company reports and dashboards to a new framework leveraging enhanced data governance principles via internal wiki management and internal developer tooling.
+
+Managed and operated a brand admin contact data workflow that was critical for corporate communication between engineering teams and externally-facing communications departments. This system allowed non-techncial users to reach out directly to brand admininstrators to keep them updated on important features and changes. This had visibility up to the Chief People Officer.
+
+Led several initiatives for upgrading and evaluating alternatives for internal business intelligence reporting software including Tableau, AWS Quicksight, Google Looker, and Apache Superset. Ultimately landed on continuing to use Tableau as our reporting platform and drove requirments to have additional reporting moved off of Redash and into the Tableau ecosystem.
+
+Reported a deep dive analysis of employee engagement data showing major factors and trends regarding return-to-office logistics. Most employees onboarded since full remote work missed having more social team gatherings, and a major inhibitor to return-to-office being commute timing.
+
+Developed and maintained a scorecard for engineering managers that would track OKR attainment, organization size, DevOps related metrics for things like commit frequency, customer pulse data for any given manager's organization, and other kinds of employee engagement data.
+
+Developed and maintained numerous dashboards and data sources for the Launch Readiness program that enabled the team to understand how effective and efficient the program is currently, and how it has evolved over time. This initiative drove major changes the the launch process and simplified processes considerably for many engineering teams.
+
+Developed and owned an engineering-wide metric for the number of features adopted per team per quarter. Established data baselines and set target goals for engineering teams to meet based on historical data trends.
+
+Automated a major headcount data workflow for engineering managers, saving a great deal of time for L6s and above involved in the hiring process.
+
+Developed and owned an engineering-wide processes scorecard that documented 76 KPIs across organization metrics, outcome metrics, and process metrics.
+
+Developed a process to understand data product impact and found that my dashboards and reports had saved staff in engineering upwards of 500 hours of time per quarter and about 260 hours of non-engineer time.
+
+Upgraded and optimized many engineering data sources from an OLTP instance of AWS Aurora to OLAP Redshift. Many of which saving upwards of 40 hours of maintenance time per quarter, simplifying ETLs to be easier to debug and understand, and allowing more expansive feature sets to be built on top of them in the future. 
+
+Led an analysis of how renewal rates tie to a brand’s Preview Program membership to indicate big advances in various client tiers, with a net positive impact. I showed upwards of 14% renewal increase in high tier accounts and upwards of 113% in mid-level tier accounts.
+
+Developed and owned a dynamic ownership mapping system of internal operations data to identify "who owns what" based on organizational hierarchies. Engineering managers were able to see in databases which programs were owned by who at what time and how organizational charts evolved over time.
+
+Developed and owned a more accessible frontend API interface to the Qualtrics YellowPages project. This enabled engineering program managers to export data from internal APIs in a more useful and straightforward way as opposed to writing individual API queries to retrieve data on program ownership and details.
+
+Performed an analysis on several Qualtrics products and tied customer satisfaction to them to understand which ones were driving positive PSAT and which ones were driving negative PSAT. This was used by program managers to further understand customer frustrations and optimize user journey flows for better product experiences.
 
 
 ### Senior Marking Analyst - Tableau Software (Feb 2018 - Oct 2019)
