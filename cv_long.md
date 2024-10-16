@@ -62,7 +62,13 @@ Developed and owned a more accessible frontend API interface to the Qualtrics Ye
 
 Performed an analysis on several Qualtrics products and tied customer satisfaction to them to understand which ones were driving positive PSAT and which ones were driving negative PSAT. This was used by program managers to further understand customer frustrations and optimize user journey flows for better product experiences.
 
-Owned and maintained documentation on analytical 
+Owned and maintained documentation on analytical best practices at Qualtrics, ranging from query optimization guides on AWS systems, managing python and R connections to data platforms, best practices on Bi and reporting structure, data analytics interview question design, and resources for growing data and analytics skillsets.
+
+Performed behavior and techcnical interview screens for 20 applicates for various roles at Qualtrics, ranging from junior to senior level data positions.
+
+Owned and operated over 100 enginering data sources and dashboards related to top-level KPIs with domains ranging from Jira customer pulse data, Launch Readiness Review data, engineering QA and testing data, internal operations data related to things like engineering efficiency and organizational data, DevOps metrics, and engineering infrastructure metrics like data center reliability and availability.
+
+Developed a predictive model for pulse volume prediction. 
 
 
 ### Senior Marking Analyst - Tableau Software (Feb 2018 - Oct 2019)
