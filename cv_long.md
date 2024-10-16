@@ -4,7 +4,7 @@
 
 ## Employment History
 
-### Head of Engineering Analytics - Qualtrics (Oct 2019 - present)
+### Head of Engineering Analytics - Qualtrics (Oct 2019 - Oct 2024)
 Leading critical operational metrics of 50+ different KPIs visible to Engineering leadership
 and C-Suite. 40% of all engineers in the company have interacted with Eng Analtyics data
 products and 35% of the entire company overall. For our most recent quarterly review, a majority
