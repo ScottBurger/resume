@@ -118,13 +118,53 @@ Developed data engineering pipelines in Kusto, Dax, and SSIS to provide high-vis
 
 Led trainings on data science and analytics best practices with R, SPSS, SAS, and various data visualization tools.
 
-Visual Studio Team Services -  Data engineering development and  analyses of user behavior in the Kusto product, seasonality of KPIs, anomaly detection, mapping user journeys, visualization, licensing investigations, and documentation of key business insights.
+#### Visual Studio Team Services 
+Worked on advanced analytics and machine learning in the Visual Studio Team Services group by writing Kusto queries to answer business questions with statistical data modelling. The reporting conclusions have had visibility to senior leadership. Examples include analyses of user behavior, seasonality of KPIs, anomaly detection, mapping user journeys, visualization, licensing investigations, and documentation of key business insights.
 
-Azure Identity FastTrack Analytics Team - Data engineering workflow management and high-visibility PowerBI dashboard development.
+#### Azure Identity FastTrack Analytics Team
+With this group with Azure Active Directory, I was tasked with rebuilding the entire end-to-end data pipeline to provide a stream of insight to feed our analytics dashboards. I rebuilt the system to have all the data processing done in the cloud instead of in a local system. I leveraged R code for machine learning insights into the data. From this work, we were able to evolve the group from dashboarding static reports to generating trends and insights in the data to use for predictive purposes.
 
-Engineering Customer Interactions and IT - Worked with numerous groups within the IT space from customer support to hardware. With customer support, we designed many A/B test scenarios to enhance statistical validity of the KPIs measured. With hardware teams, we looked at usage metrics to build a customer segmentation model using big data on Microsoft's big data COSMOS platform.
+#### Retail and Channel Marketing Team 
+Microsoft's Retail and Channel Marketing team focuses on sales unit modelling for various product groups across a very stratified set of data, including several different form factors, distributors, and supply-chain business logic scenarios. With the sales team, I've led a small team of data scientists to guide modelling approaches as well as designing analytical models myself. We have successfully completed many business objectives ranging from data warehousing strategy to complex machine learning model forcecasts.
 
- Data & Decision Sciences Group - Led trainings on data science and analytics best practices. Provided cross-product org insightswith R, SAS, Python, and JMP.Built models to detect at-risk product keys \& global piracy patterns and built regime-changing models to predict code signing time for large builds.
+The team had originally been relying on Excel as a crutch for all their data needs. One of our most impactful fixes was to use a more intelligent SQL system to warehouse the data. Another key impact we drove was to utilize machine learning association rules to better understand our data and how to reccomend it to customers.
+
+The highest impact deliverable for this project was developing a market sizing model to determine where gaps are within internal data and how to approach an extrapolation to the full market picture with minimal reliance on third party data. The model is primarially a data reshaping exercise that is built in an R enviornment. We use the final flat sizing model table as a base layer for visualization to key business stakeholders and to help drive decision making. 
+
+ I have done extensive work in applying machine learning modelling to sales projections from our data warehousing outputs. By tying together different datasets from vastly different business ends of the spectrum and reshaping appropriately, we first build a unified data structure across multiple verticals including time, form factor (ie, desktop or notebook), and sales channel, we can then apply GDP-based economic factors to the data and train our machine learning models accordingly. We have done this exercise with great accuracy for predicting unit sales at a yearly and quarterly level. 
+
+Other projects in this space include theoretical economic market cap estimation, ARIMA modelling and sesonality decomposition for use in sales forecasting, cross-channel retail consumption models based on extracted linear models for each vertical slice of the data, and designing sales growth ranking algorithms to bucketize distributiors into high, medium, and low performance categories. 
+
+#### KAT-BI Team
+The KAT-BI team is responsible for BI and analytics across multiple high-visibility sites across Microsoft, including MPO, MPN, MSDN, SMC, SSB, and TechNet. Across these sites, I helped manage a team that was responsible for scorecard design and maintenance. We designed many different survey techniques to give visibility into NSAT metrics across the sites, as well. These designs ranged from A/B tests on currently deployed methodologies, to implementing new design methods for survey feedback and scoring. The scorecard infrastructure was designed in Cosmos, while being fed into a dashboard that was updated in PowerBI. 
+
+My end deliverable for this project was to develop a simpler feedback response mechanism. I worked with design teams and developers to implement a new feedback system that was then integrated into the scorecard's NSAT tracking.
+
+
+#### Engineering Customer Interactions and IT
+With the highly agile and fast-paced Engineering, Customer interactions, and Online team (ECO, now known as MSEG), I am responsible for working in a team of Solution Managers, UX Researchers, Engineering Leads/PMs, customer and business subject matter experts to determine what is important to the customer/user and understand the experience (workflows, customer/user journey), target low level drivers, measurements, metrics and success drivers. I work with engineering teams to help design instrumentation needs for engineering systems and improve data acquisition and collection strategy by doing gap analysis.
+
+ Deliverables from this project include: increase of support.microsoft.com NSAT by 6\%, developed a mathemtically-derived NSAT backup system for support.microsoft.com, developed a machine learning algorithm deployment infrastructure, text mining analysis of survey data, proof-of-concept chat wait time predictive model, call center performance analysis, analysis of over 200TB of COSMOS data to determine business use case volume, trained in FY15 privacy 101, privacy 201: mps fundamentals.
+ 
+General duties include conducting statistical analysis to determine key factors for planning and conducting experiments to prove causality using prescriptive and predictive analytics by application of appropriate machine learning algorithms (decision tree, classification, clustering, regression tree, logistic regression, random forest, regression etc.) 
+
+ I am also responsible for A/B Testing of experiments designed to validate clear hypotheses regarding measurable outcomes, and for modelling the telemetric requirements for the KPIs, drivers and True North Metrics for any strategic priority. Additional duties include: analytical model management in databases between COSMOS, Hive, SSAS data cubes, and HDInsight clusters running on Azure.
+
+ Responsible for adhoc data queries using SQL scripting, and adhoc data integration in MSIT provided servers by building Data models using SSAS and C\#. I am also conducting statistical analysis to determine key factors for planning and conducting experiments to prove causality using statistical tools such as R, Matlab, JMP and Data Visualization tools such as SSRS, PowerView.
+
+
+#### Data & Decision Sciences Group 
+Led trainings on data science and analytics best practices. Provided cross-product org insightswith R, SAS, Python, and JMP. Built models to detect at-risk product keys and global piracy patterns and built regime-changing models to predict code signing time for large builds.
+
+I was also responsible for using the group's Hadoop cluster to architect, design, and develop actionable analytics with associated Hadoop technologies like Pig and Hive. 
+
+ Delivered a training course to senior management level employees on topics including: Theoretical Probability Distributions, Hypothesis testing, Correlation, Experimentation Principles, and tutorials on specific tools like Sigma-XL, Minitab, JMP, and Excel.
+
+Delivered a training course to senior management level employees on topics in data visualization, such as: design principles for visualization, basic and advanced visualization principles, analysis principles for data visualization, correlation, data exploration, and big data analytics. Tutorials on specific tools like powerview and pivot charts were done in small groups with attendees.
+
+ At Microsoft I worked in the Data and Decision Sciences Group on numerous statistical Big-Data projects. The group interfaced with many internal corporate clients to provide analytical insights with the use of R, SAS, Python, and JMP. I was also responsible for using the group's Hadoop cluster to produce actionable analytics with associated Hadoop technologies like Pig and Hive. I also edited and helped present training material for the group's seminars to upper management on data visualization and statistics for business decision making.
+
+-----
 
 
 
