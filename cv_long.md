@@ -127,6 +127,9 @@ Engineering Customer Interactions and IT - Worked with numerous groups within th
  Data & Decision Sciences Group - Led trainings on data science and analytics best practices. Provided cross-product org insightswith R, SAS, Python, and JMP.Built models to detect at-risk product keys \& global piracy patterns and built regime-changing models to predict code signing time for large builds.
 
 
+
+
+
 ## Education
 
 * MSc Astrophysics, University College London, 2012
