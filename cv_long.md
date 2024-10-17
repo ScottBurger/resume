@@ -202,4 +202,4 @@ __User-Based Reviews and the PC Gaming Ecosytem: What It Takes to Survive in the
 ## Other Projects
 __FAA Private Pilot's License - 4826074__ - In December 2023, I passed my Cessna 152 checkride to achieve my VFR private pilot's license.
 
-__[SVBurger.com](https://svburger.com/)__ - Data science and analytics blog maintained since 2017.
+__[SVBurger.com](https://svburger.com/)__ - Data science and analytics blog maintained since 2017. Notable topics include developing a python library for Steam game data analysis, user interest behavioral statistics, bike race clustering solutions to categorical alignment problems, and potential analytical frameworks that can be better suited for analysis than classical systems like NSAT.
