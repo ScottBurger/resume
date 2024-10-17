@@ -59,7 +59,13 @@ Performed behavior and techcnical interview screens for 20 applicates for variou
 
 Owned and operated over 100 enginering data sources and dashboards related to top-level KPIs with domains ranging from Jira customer pulse data, Launch Readiness Review data, engineering QA and testing data, internal operations data related to things like engineering efficiency and organizational data, DevOps metrics, and engineering infrastructure metrics like data center reliability and availability.
 
-Developed a predictive model for pulse volume prediction. 
+Productionalized a predictive model for Jira pulse volume prediction. This enabled engineering QE teams and frontline ticket support to better understand when to expect high volumes of support requests from customers and at what severity level.
+
+Productionalized a Jira pulse volume anomaly detection model for engineering teams. This helped to set real-time alerts for when customer ticket creation volumes spiked for specific teams, but also showed when teams were experiencing lower than normal ticket volumes, so both sides of the RCA success story could be told.
+
+Developed and operated a plan across numerous teams in engineering to onboard and adopt AWS Redshift as the internal standard for company-wide data warehousing. Drove requirements for better analytics framework best practices, including formalizing metrics and report specific schemas in the new data warehouse. This helped to save massive amounts of time and effort from originally developing analytics queries on the OLTP framework of AWS Aurora, which at the time did not support even CTE functionality.
+
+
 
 
 ### Senior Marking Analyst - Tableau Software (Feb 2018 - Oct 2019)
