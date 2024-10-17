@@ -5,26 +5,17 @@
 ## Employment History
 
 ### Head of Engineering Analytics - Qualtrics (Oct 2019 - Oct 2024)
-Leading critical operational metrics of 50+ different KPIs visible to Engineering leadership
-and C-Suite. 40% of all engineers in the company have interacted with Eng Analtyics data
-products and 35% of the entire company overall. For our most recent quarterly review, a majority
-of users were saved a great deal of time and had a great deal of decision making process influenced
-by our Tableau dashboards, Redshift tables, and Airflow DAGs.
+Developed the centralized reporting dashboard and infrastructure for C-Suite visibility into company-level metrics such as: Ease of Use, Pace of Interactions, Time to Value, Number of Interactions, Monthly Active Users, Daily Active Users, Monthly Active Brands, Jira Pulse SLAs, Data Center Availability, Service Level Objectives, Security Patching, and 20 other main metrics used for criticial success measurement across Product, Experience, and Engineering. Accomplished with Python, Prefect, and Tableau.
 
-Managed mission-critical operation of operational review metrics used in realtion to Jira data.
-Major investigations and realtime reporting on customer pulses, deep dives on product quality
-feedback, and analyses of backlog management across all Engineering teams.
+Leading critical operational metrics of 50+ different KPIs visible to Engineering leadership and C-Suite. 40% of all engineers in the company have interacted with Eng Analtyics data products and 35% of the entire company overall. For our most recent quarterly review, a majority of users were saved a great deal of time and had a great deal of decision making process influenced by our Tableau dashboards, Redshift tables, and Airflow DAGs.
 
-Investigated OKR adoption practices and made a company-wide change for OKRs to be more
-tightly linked via manager-direct objective-result pair linking.
+Managed mission-critical operation of operational review metrics used in realtion to Jira data. Major investigations and realtime reporting on customer pulses, deep dives on product quality feedback, and analyses of backlog management across all Engineering teams.
 
-Identified 140 brands to be targeted by the Qualtrics Preview Program with a net revenue
-lift of $14M+.
+Investigated OKR adoption practices and made a company-wide change for OKRs to be more tightly linked via manager-direct objective-result pair linking.
 
-Led an investigation into pre- and post-pandemic Engineering efficiency metrics and found
-that Qualtrics transitioned with no statistically significant impact on developer productivity.
-Led initiatives on data governance to establish the adoption of Alation and data documenation
-best practice updates.
+Identified 140 brands to be targeted by the Qualtrics Preview Program with a net revenue lift of $14M+.
+
+Led an investigation into pre- and post-pandemic Engineering efficiency metrics and found that Qualtrics transitioned with no statistically significant impact on developer productivity. Led initiatives on data governance to establish the adoption of Alation and data documenation best practice updates.
 
 Led an initiative to bring analytics team across the company together for informal tech talks.
 
