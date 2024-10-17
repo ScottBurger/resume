@@ -91,8 +91,24 @@ Helped foster and develop the data engineering-led initiative "Data Champions" w
 
 
 ### Senior Marking Analyst - Tableau Software (Feb 2018 - Oct 2019)
-Led a team of data scientists and data engineers to build a multi-touch attribution model
-in Google Bigquery and R. Owned and maintained data sources critical to the Marketing organization’s daily operation. My team’s projects had visibility to executives including user journey path analysis, realtime dashboarding for major product launches, and predictive customer lifetime value models. Handled data science interviewing, onboarding, and intern transitions to full time employment.
+
+Productionalized and maintained a several multi-touch attribution models on Google BigQuery, with additional versions developed in R, with data pushed to tables for downstream systems to utilize.
+
+Developed and maintained data sources related to customer journey path analysis in BigQuery.
+
+Led and maintained office hours support for other parts of the marketing organization to come and ask technical questions, get help, and learn to self-serve for various data-related issues.
+
+Owned and operated data sources related to major marketing product launches.
+
+Developed models to understand and integrate various lead scoring models like SixSense into our system and understand how interally developed tools compared.
+
+Handled data science interviewing, onboarding, and intern transitions to full time employment.
+
+Owned and maintained data sources critical to the Marketing organization’s daily operation such as opportunity data, lead contact data, and quota attainment.
+
+Developed and productionalized models to predict customer lifetime value based on account level data usage and consumption.
+
+
 
 
 ### Data Scientist - Microsoft (May 2014 - Jan 2018)
