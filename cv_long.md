@@ -17,7 +17,7 @@ Identified 140 brands to be targeted by the Qualtrics Preview Program with a net
 
 Led an investigation into pre- and post-pandemic Engineering efficiency metrics and found that Qualtrics transitioned with no statistically significant impact on developer productivity. Led initiatives on data governance to establish the adoption of Alation and data documenation best practice updates.
 
-Led an initiative to bring analytics team across the company together for informal tech talks.
+Led an initiative to bring analytics team across the company together for informal tech talks, averaging two per month.
 
 ---
 
@@ -65,7 +65,29 @@ Productionalized a Jira pulse volume anomaly detection model for engineering tea
 
 Developed and operated a plan across numerous teams in engineering to onboard and adopt AWS Redshift as the internal standard for company-wide data warehousing. Drove requirements for better analytics framework best practices, including formalizing metrics and report specific schemas in the new data warehouse. This helped to save massive amounts of time and effort from originally developing analytics queries on the OLTP framework of AWS Aurora, which at the time did not support even CTE functionality.
 
+Worked with HR and recruiting to develop internal headcount reporting dashboards used for budget and planning purposes across engineering and other orgs at the company. Visibily up to C-Suite to help drive decisions on organizational management.
 
+Productionalized a predicitive hiring model for engineering to assess growth of the organization at various seniority levels and track potential growth for various engineering teams.
+
+Developed and maintained data sources and dashboards to track engineering-wide OKR attainment at all management levels. Visibility up to CTO helped enable standardization of org-wide best practices and maintain alignment with working procedures to show a clear chain of how individual objectives ladder up to org-wide initiatives.
+
+Developed and owned standardized best practice documentation for usage of Presto and Data Lake. This initiative helped to evangelize use cases for each of these systems to other data users, reduce overhead for the core data engineering team, and ultimately drive data end users to the best ecosystem that suits their use cases.
+
+Owned and operated a data governance v-team across numerous organizations including engineering, revenue operations, finance, security, data engineering, and sales operations.
+
+Productionalized and owned a data source for tracking internal company wiki pageview statistics. This helped teams across the company understand how useful their documentation was overall, who the major consumers of their documentation were, and how they were trending over time.
+
+Drive company best practices for internal reporting standards. Worked with internal development operations teams to move over 100 reports from a system managed by a siloed centralized team into the self-serve company-wide internal wiki. This helped drastically reduce update and KTLO time for the internal development teams, and helped enable many new useful features including data governance applications. A centralized structure helped realign company reporting in a one-stop-shop area so senior leadership could easily navigate various company KPIs.
+
+Owned and maintained over two dozen airflow automation pipelines critical for engineering data success related to Jira data, GitLab DevOps metrics, and other sources of data.
+
+Performed a research investigation into potential hiring bias in the engineering organization for historically underrepresented groups (HUGS) and found no statistically significant areas of concern.
+
+Owned and maintained data sources and reporting infrastructure related to engineering data center reliability data. This helped engineers and leadership understand where issues were happening, which teams were responsible, SLAs for action, and associated metrics.
+
+Productionalized and maintined data sources and reporting for engineering QA sytems including Testrail. This helped engineers understand where unit, integration, and end-to-end tests were happening with a high degree of granularity down to specific teams, but also being able to be aggregated up to specific engineering managers as well. 
+
+Helped foster and develop the data engineering-led initiative "Data Champions" which nominated representatitves from across the company's organizations to serve as data experts for specific areas of focus.
 
 
 ### Senior Marking Analyst - Tableau Software (Feb 2018 - Oct 2019)
