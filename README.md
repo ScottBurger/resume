@@ -4,7 +4,7 @@ One-pager highlights of recent work experience
 
 ## Employment History
 
-### Senior Data Analyst, Engineering - Qualtrics (Oct 2019 - present)
+### Senior Data Analyst, Engineering - Qualtrics (Oct 2019 - Oct 2024)
 
 Developed the centralized reporting dashboard and infrastructure for C-Suite visibility into company-level metrics such as: Ease of Use, Pace of Interactions, Time to Value, Number of Interactions, Monthly Active Users, Daily Active Users, Monthly Active Brands, Jira Pulse SLAs, Data Center Availability, Service Level Objectives, Security Patching, and 20 other main metrics used for criticial success measurement across Product, Experience, and Engineering. Accomplished with Python,  Prefect, and Tableau.
 
