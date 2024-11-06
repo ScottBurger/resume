@@ -23,7 +23,7 @@ Led an initiative to bring analytics team across the company together for inform
 
 Developed and maintained major canonical data sources related to Salesforce accounts and configure-price-quote information. This enabled Sales Operations and GTM teams to better understand where to target for business planning questions, weaknesses in our product taxonomy, and strategies for better data alignment between teams.
 
-Instrumented and owned best practices for aligning business planning data hosted in Coda to Redshift data tables in the data warehouse. This enabled a snapshotted set of data to see evolutions in product taxonomy at specific points in time, enabled use of joining the product data to other sources like Salesforce, and enabled new simplified product taxonomy groupings for established metrics and reports.
+Instrumented and owned best practices for aligning business planning data hosted in Coda to Redshift data tables in the data warehouse. Accomplished via Coda API calls and automation via Prefect. This enabled a snapshotted set of data to see evolutions in product taxonomy at specific points in time, enabled use of joining the product data to other sources like Salesforce, and enabled new simplified product taxonomy groupings for established metrics and reports.
 
 Worked closely with TPMs from GTM and Sales Operations to drive requirements for data quality related to Salesforce licensing management systems. This established a baseline for data quality, giving us a number to understand current account coverage per license, and evaluate strategies for attributing usage and consumption metrics to a given account's active license bundles.
 
