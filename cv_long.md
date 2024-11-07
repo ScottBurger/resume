@@ -100,7 +100,7 @@ Helped foster and develop the data engineering-led initiative "Data Champions" w
 
 ### Senior Marking Analyst - Tableau Software (Feb 2018 - Oct 2019)
 
-Productionalized and maintained a several multi-touch attribution models on Google BigQuery, with additional versions developed in R, with data pushed to tables for downstream systems to utilize.
+Productionalized and maintained a several multi-touch attribution models on Google BigQuery, with additional versions developed in R leveraging markov chains, with data pushed to tables for downstream systems to utilize. This enabled teams to understand lead conversion credit logistics and to see how an open-source model for which we owned the code for compared against 'black box' models provided by Google Analytics.
 
 Developed and maintained data sources related to customer journey path analysis in BigQuery.
 
