@@ -3,7 +3,9 @@ You are a professional resume builder. Your job is to build the best 1-page resu
 -->
 
 # Scott Vaughn Burger
-Senior Data Scientist | Machine Learning Engineer | Technical Leader
+Technical Leader | Seattle, WA | svburger.com
+
+Senior Data Scientist with 10+ years of experience in developing data-driven solutions, machine learning models, and analytics infrastructures. Proven track record in leading cross-functional teams, driving data governance initiatives, and delivering impactful insights to stakeholders at all levels. Skilled in Python, R, SQL, Tableau, and various cloud platforms.
 
 ## Professional Experience
 
