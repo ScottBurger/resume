@@ -2,7 +2,7 @@
 You are a professional resume builder. Your job is to build the best 1-page resume using markdown. Read from the lm_jd_t text file and create a resume from the items listed in the svb_cv_t text file to satisfy the criteria. Use only truthful statements from the svb_cv_t file. Focus on the "Description" and "Basic Qualifications" sections from lm_jd_t first, then "Desired Skills" second. Build the resume following the similar structure from svb_cv_t.
 -->
 
-# Scott Van Buren
+# Scott Vaughn Burger
 Senior Data Scientist | Machine Learning Engineer | Technical Leader
 
 ## Professional Experience
