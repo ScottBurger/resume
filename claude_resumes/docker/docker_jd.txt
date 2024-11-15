@@ -1,0 +1,37 @@
+Staff Data Analyst
+
+Key Responsibilities:
+Data Strategy & Execution: Lead data initiatives by designing, developing, and optimizing data models and reporting structures that support the organization’s strategic objectives.
+Data Analysis & Transformation: Conduct advanced data analysis, leveraging tools like Snowflake, DBT, and SQL to ensure accuracy, consistency, and actionable insights across various data sources.
+Data Modeling: Develop and maintain scalable, robust data models that enable both real-time and ad-hoc analysis, driving key business decisions.
+Reporting & Dashboards: Create, manage, and optimize dashboards and reports using Looker, providing stakeholders with clear, actionable insights.
+Collaboration: Partner closely with business teams, data engineers, and leadership to understand and meet data needs, aligning data initiatives with broader business goals.
+Mentorship & Team Development: Provide mentorship to other analysts, fostering professional growth and encouraging best practices across the team.
+Data Governance & Quality: Drive data quality initiatives, identifying and resolving inconsistencies while defining best practices for data governance.
+Continuous Improvement: Continuously refine and enhance data models, reporting pipelines, and processes to support evolving business needs and ensure scalability.
+
+Key Skills and Qualifications:
+Experience: 5+ years of experience in data analysis, business intelligence, or a related field, with a proven ability to deliver impactful data solutions in fast-paced environments.
+Technical Expertise: Advanced proficiency in SQL and strong experience with data warehousing and ETL/ELT processes. Familiarity with Snowflake, DBT, and Looker is highly desirable.
+Analytical & Problem-Solving Skills: Strong analytical thinking with the ability to interpret data, identify trends, and generate actionable insights to inform business decisions.
+Communication: Exceptional communication skills, with the ability to distill complex technical concepts for both technical and non-technical audiences.
+Leadership & Mentorship: Experience mentoring junior team members and contributing to team development. Ability to influence and lead cross-functional teams in data-driven initiatives.
+Education: Bachelor’s or Master’s degree in a relevant field such as Data Science, Computer Science, Statistics, Economics, or Mathematics.
+Attention to Detail: A meticulous approach to data, ensuring accuracy and reliability in all deliverables, while maintaining a high standard of data quality.
+
+What to expect in the first 30 days:
+Understand Docker’s Data Landscape: Deep dive into Docker’s data systems, processes, and business objectives to build a strong foundation for future contributions.
+Collaborate with Teams: Engage with cross-functional teams to gain insight into ongoing data initiatives and identify how you can contribute.
+Start Contributing: Begin taking ownership of smaller data analysis tasks, providing insights, and shaping solutions that align with business needs.
+
+What to expect in the first 90 days:
+Lead Key Projects: Take full ownership of critical data analysis projects, ensuring they are aligned with strategic business goals and delivered on time.
+Collaborate Across Teams: Work closely with stakeholders to understand their data needs and deliver insights that directly impact business outcomes.
+Partner with Data Engineers: Collaborate with data engineers to ensure the scalability, reliability, and optimization of data pipelines and models.
+Execute and Deliver: Focus on delivering data solutions that meet timelines, driving execution, and continuously identifying areas for improvement in processes and systems.
+Mentor and Support: Provide mentorship to other data analysts, offering guidance and support in executing data projects while fostering a collaborative team environment
+
+What to expect in the first year:
+Drive Large-Scale Initiatives: Lead and deliver large-scale data initiatives that meet business objectives and drive meaningful outcomes.
+Optimize and Evolve: Continuously optimize data models, dashboards, and reporting structures to support evolving business needs.
+Become a Key Contributor: Establish yourself as a strategic leader within Docker’s data team, driving data-driven decision-making and scaling processes to ensure long-term success.
