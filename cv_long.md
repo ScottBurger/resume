@@ -21,7 +21,7 @@ Led an initiative to bring analytics team across the company together for inform
 
 ---
 
-Developed and maintained major canonical data sources related to Salesforce accounts and configure-price-quote information. This enabled Sales Operations and GTM teams to better understand where to target for business planning questions, weaknesses in our product taxonomy, and strategies for better data alignment between teams.
+Developed a product mapping taxonomy from Salesforce opportunity line items up to major product SKUs. Automated mapping tables in Redshift with Airflow. This enabled Sales Operations and GTM teams to better understand where to target for business planning questions, weaknesses in our product taxonomy, and strategies for better data alignment between teams.
 
 Instrumented and owned best practices for aligning business planning data hosted in Coda to Redshift data tables in the data warehouse. Accomplished via Coda API calls and automation via Prefect. This enabled a snapshotted set of data to see evolutions in product taxonomy at specific points in time, enabled use of joining the product data to other sources like Salesforce, and enabled new simplified product taxonomy groupings for established metrics and reports.
 
