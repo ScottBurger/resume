@@ -7,6 +7,7 @@
 ### Data Analyst, Compliance Safety and Risk Mitigation - Google (contract with Redcloud Consulting) (Feb 2025 - Feb 2026)
 
 
+References: Joanna Fogt, Keane Cucuel, Pavel May, Yulia Efanova, Matt Dionne, Youngeun Park, Ashley Bowen, Scott McGrorey, Andrei Sebald, Kian Lutu, Ajlaan Bridle, Cameron Ogren
 
 
 ### Senior Data Scientist, Engineering Analytics - Qualtrics (Oct 2019 - Oct 2024)
