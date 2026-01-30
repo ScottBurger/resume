@@ -4,6 +4,11 @@
 
 ## Employment History
 
+### Data Analyst, Compliance Safety and Risk Mitigation - Google (contract with Redcloud Consulting) (Feb 2025 - Feb 2026)
+
+
+
+
 ### Senior Data Scientist, Engineering Analytics - Qualtrics (Oct 2019 - Oct 2024)
 Developed the centralized reporting dashboard and infrastructure for C-Suite visibility into company-level metrics such as: Ease of Use, Pace of Interactions, Time to Value, Number of Interactions, Monthly Active Users, Daily Active Users, Monthly Active Brands, Jira Pulse SLAs, Data Center Availability, Service Level Objectives, Security Patching, and 20 other main metrics used for criticial success measurement across Product, Experience, and Engineering. Accomplished with Python, Prefect, and Tableau.
 
