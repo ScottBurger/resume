@@ -6,6 +6,15 @@
 
 ### Data Analyst, Compliance Safety and Risk Mitigation - Google (contract with Redcloud Consulting) (Feb 2025 - Feb 2026)
 
+Supporting Google’s analytics in Compliance, Safety and Risk Mitigation (CSRM) for operational technology and industrial control systems in Google Data Centers with need-to-know access on asset vulnerability data.
+
+Led development of historical tracking datasets for Operational Technology (OT) assets and need-to-know data, including data products generating visibility for Alphabet board to learn about metrics like mean time to vulnerability remediation (MTTR).
+
+Developed a Gemini-based AI model to fill in data gaps on OT device classification and upgrade the data quality from Claroty-based system APIs.
+
+Automated the vulnerability management lifecycle system used by DC Ops to assign work orders to site technicians for security upgrades and software patching, saving Ops over 2,000 hours of monthly effort.
+
+Created PLX data pipelines and dashboards to highlight WinRM deployment coverage across the OT fleet, including Active Query scan success at a hostname level. The dashboards are used by over 600 technicians across all global sites which help them triage potential WinRM deployment issues and OT asset information data quality.
 
 References: Joanna Fogt, Keane Cucuel, Pavel May, Yulia Efanova, Matt Dionne, Youngeun Park, Ashley Bowen, Scott McGrorey, Andrei Sebald, Kian Lutu, Ajlaan Bridle, Cameron Ogren
 
